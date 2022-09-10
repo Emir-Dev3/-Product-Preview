@@ -65,5 +65,5 @@ I was able to make use of my font attributees to manipulate the typography of th
 ```
 
 ## Author
-- Frontend Mentor - [@emirdev-3](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Call_me_Olaitan](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Emir-Dev3](https://www.frontendmentor.io/profile/@Emir-Dev3)
+- Twitter - [@Call_me_Olaitan](https://www.twitter.com/@Call_me_Olaitan)
